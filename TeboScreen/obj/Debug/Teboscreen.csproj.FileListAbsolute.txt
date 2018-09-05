@@ -1,0 +1,10 @@
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\bin\Debug\Teboscreen.exe
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\bin\Debug\Teboscreen.pdb
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.ControlPanel.resources
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.Form1.resources
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.Properties.Resources.resources
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.csproj.GenerateResource.cache
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.csproj.CoreCompileInputs.cache
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.exe
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\obj\Debug\Teboscreen.pdb
+C:\Users\y.baghaee\Downloads\Compressed\Teboscreen_source_code\Teboscreen\bin\Debug\Teboscreen.exe.config
